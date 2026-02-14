@@ -1,6 +1,12 @@
 # Farmer
 Collects products of a region or island and store them in inventory of himself.
 
+# Disclaimer
+
+Farmer v6.1 is an independent fork of Farmer v6. It is not affiliated with, endorsed by, maintained by, or connected to the original Farmer v6 project or its developers in any capacity.
+
+If the original project owner wishes to request the removal of this repository, they may contact via Discord (3mustafa5__). Upon a valid request, the repository may be reviewed and removed accordingly.
+
 ## How it's work?
 This plugin creates a virtual assistant that collects items on your behalf within your designated region or island. This assistant, known as the 'Farmer,' can be purchased using in-game currency. Owners have the ability to add users to the assistant and grant them permission to sell items through it. Additionally, the owner can deactivate the collection feature and level up the Farmer via the management GUI. Within the Farmer's GUI, stock availability is displayed using colors and percentage indicators.
 
